@@ -1,1 +1,7 @@
-These are the codes which are included in my Java File.
+All the 30 Java Programs are in this repository
+
+Sparsh Kaushik 
+
+23/SCA/BCA/054 
+
+BCA 4A
